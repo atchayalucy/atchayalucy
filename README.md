@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @atchayalucy
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in writing quotes
 - 📫 How to reach me ...mail @ atchayalucy11@gmail.com
 
 <!---
